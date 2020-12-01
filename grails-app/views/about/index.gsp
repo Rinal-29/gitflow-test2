@@ -11,6 +11,6 @@
     <title>About Us Features</title>
 </head>
 <body>
-    <h1>About Pages Release</h1>
+    <h1>About Pages Release Develop</h1>
 </body>
 </html>
