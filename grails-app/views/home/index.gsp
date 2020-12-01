@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
-    <title>Feature Home</title>
+    <title>Feature Home Index</title>
 </head>
 <body>
     <h1>Home Pages Release</h1>
